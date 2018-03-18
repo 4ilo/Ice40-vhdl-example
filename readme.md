@@ -16,3 +16,5 @@
 ```
 make
 ```
+
+- Upload .bin file to onboard flash with Raspberry pi & [flashrom](https://www.olimex.com/wiki/ICE40HX1K-EVB#Iceprog_with_Raspberry_PI)

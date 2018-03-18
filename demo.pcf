@@ -1,0 +1,8 @@
+set_io clk 15
+set_io up 41
+set_io rst 42
+
+set_io count[0] 40   #PIO3_1A
+set_io count[1] 2   #PIO3_1B
+set_io count[2] 3   #PIO3_2A
+set_io count[3] 4   #PIO3_2B
